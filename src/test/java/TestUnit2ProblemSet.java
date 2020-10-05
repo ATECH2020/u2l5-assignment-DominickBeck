@@ -103,7 +103,7 @@ public class TestUnit2ProblemSet {
                 "Enter the longitude of the starting location: \n" +
                 "Enter the latitude of the ending location: \n" +
                 "Enter the longitude of the ending location: \n" +
-                "The distance is 228.67453559954555 miles.";
+                "The distance is 228.67453559955317 miles.";
 
         // assertion
         assertEquals(consoleOutput, out.toString().replaceAll( "\r", "" ));

@@ -22,6 +22,6 @@ public class HowFarAway
 
       GeoLocation geoB = new GeoLocation(latitude, longitude);
 
-      System.out.print("The distance is " + geoA.distanceFrom(geoB) + " miles");
+      System.out.print("The distance is " + geoA.distanceFrom(geoB) + " miles.");
     }
 }
